@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SaranyaDK
-- 👀 I’m interested in programming and electronics 
-- 🌱 I’m currently learning data science and machine learning 
+
 
 
 <!---
